@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.88+-blue)
+![DiffussionModel](https://img.shields.io/badge/Diffussion-black)
+![Windows](https://img.shields.io/badge/Windows-green)
+![PyTorch](https://img.shields.io/badge/PyTorch2.0+-orange) 
+![Coco](https://img.shields.io/badge/Coco-brown)
+![Github](https://img.shields.io/badge/GitHub-black)
 # Dain - Diffussion image generator.
 Dain - this is free open source model for image generation.
 ## Installation
